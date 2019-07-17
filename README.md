@@ -28,3 +28,6 @@ Have a web-based platform that allows the machine learning scientists at DeepCur
 
 ### Setup
 Setup can be found [here](https://github.com/DanielBelmes/awesome-hyperopt/blob/master/README(SETUP%26RUN).md)
+
+### Preview
+<img src="https://github.com/DanielBelmes/awesome-hyperopt/blob/master/Images/image-1.png?raw=true" width="80%" height ="80%"/>
