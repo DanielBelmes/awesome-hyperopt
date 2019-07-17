@@ -25,3 +25,6 @@ Have a web-based platform that allows the machine learning scientists at DeepCur
 ### Resources
 * Tutorials
   * [Developing a Single Page App with Flask and Vue.js](https://testdriven.io/blog/developing-a-single-page-app-with-flask-and-vuejs/) 
+
+### Setup
+Setup can be found [here](https://github.com/DanielBelmes/awesome-hyperopt/blob/master/README(SETUP%26RUN).md)
