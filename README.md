@@ -31,4 +31,6 @@ Setup can be found [here](https://github.com/DanielBelmes/awesome-hyperopt/blob/
 
 ### Preview
 <hr/>
-> <img src="https://github.com/DanielBelmes/awesome-hyperopt/blob/master/Images/image-1.png?raw=true" width="80%" height ="80%"/><hr/>
+<kbd>
+<img src="https://github.com/DanielBelmes/awesome-hyperopt/blob/master/Images/image-1.png?raw=true" width="80%" height ="80%"/></kbd>
+<hr/>
