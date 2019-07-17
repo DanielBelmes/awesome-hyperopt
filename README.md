@@ -31,8 +31,8 @@ Have a web-based platform that allows the machine learning scientists at DeepCur
 
 ### Preview
 <div align="center">
-><img src="https://github.com/DanielBelmes/awesome-hyperopt/blob/master/Images/image-1.png?raw=true" align="center" width="100%" height ="100%"/>
-><img src="https://github.com/DanielBelmes/awesome-hyperopt/blob/master/Images/image.png?raw=true" align="center" width="100%" height ="100%"/>
+<img src="https://github.com/DanielBelmes/awesome-hyperopt/blob/master/Images/image-1.png?raw=true" align="center" width="100%" height ="100%"/>
+<img src="https://github.com/DanielBelmes/awesome-hyperopt/blob/master/Images/image.png?raw=true" align="center" width="100%" height ="100%"/>
  </div>
 ### Documentation and Presentation
 1. [Documentation](https://github.com/DanielBelmes/awesome-hyperopt/blob/master/AutoHopts%20410%20Documentation.pdf)
