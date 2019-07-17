@@ -36,6 +36,5 @@ Have a web-based platform that allows the machine learning scientists at DeepCur
 </div>
 
 ### Documentation and Presentation
-<a href="https://github.com/DanielBelmes/awesome-hyperopt/blob/master/AutoHopts%20410%20Documentation.pdf" target="_blank">Documentation</a>
 1. [Documentation](https://github.com/DanielBelmes/awesome-hyperopt/blob/master/AutoHopts%20410%20Documentation.pdf)
 2. [Powerpoint Presentation](https://github.com/DanielBelmes/awesome-hyperopt/blob/master/AutoHopts%20Presentation.pdf)
