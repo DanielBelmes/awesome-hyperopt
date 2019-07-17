@@ -9,7 +9,7 @@ At DeepCure, we train and evaluate hundreds of machine learning models for diffe
 ### Goal  
 Have a web-based platform that allows the machine learning scientists at DeepCure to schedule, monitor and analyze the results of a hyper-parameter optimization run. We expect the platform to minimize the overhead in problem solving and increase the speed of our hypothesis testing cycle.
 
-### Reference
+### References
 * Programming Languages 
   * [Python](https://www.python.org/)
   * [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -22,13 +22,16 @@ Have a web-based platform that allows the machine learning scientists at DeepCur
   * [Amazon Web Services](https://docs.aws.amazon.com/index.html#lang/en_us)
   * [Gitlab](https://docs.gitlab.com/ce/gitlab-basics/)
 
-### Resources
+### Resources Used
 * Tutorials
   * [Developing a Single Page App with Flask and Vue.js](https://testdriven.io/blog/developing-a-single-page-app-with-flask-and-vuejs/) 
 
 ### Setup
 Setup can be found [here](https://github.com/DanielBelmes/awesome-hyperopt/blob/master/README(SETUP%26RUN).md)
 
-### Previews
+### Preview
 ><img src="https://github.com/DanielBelmes/awesome-hyperopt/blob/master/Images/image-1.png?raw=true" align="center" width="100%" height ="100%"/>
 ><img src="https://github.com/DanielBelmes/awesome-hyperopt/blob/master/Images/image.png?raw=true" align="center" width="100%" height ="100%"/>
+### Documentation and Presentation
+1. [Documentation](https://github.com/DanielBelmes/awesome-hyperopt/blob/master/AutoHopts%20410%20Documentation.pdf)
+2. [Powerpoint Presentation](https://github.com/DanielBelmes/awesome-hyperopt/blob/master/AutoHopts%20Presentation.pdf)
